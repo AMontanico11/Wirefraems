@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*****BASE DE DIVS*****/
+.Sect{
+    margin-top: 20px;
+    height: auto;
+    width: 375px;
+    display: flex;
+    flex-direction: column;
+}
+.Second{
+    margin-top: 20px;
+    height: auto;
+    width: 375px;
+    display: flex;
+    flex-direction: column;
+}
+.Octa{
+    display: flex;
+}
+/*******CUADROS DE DIVS****/
+.Cuadra{
+    margin-top: 15px;
+    background-color: #6BD3B3;
+    width: 120px;
+    height: 120px;
+    border-radius: 20px;
+    margin-left:31%;
+}
+.Septa{
+    margin-top: 15px;
+    background-color: #031B3D;
+    width: 120px;
+    height: 120px;
+    border-radius: 20px;
+    margin-left:31%;
+}
+.Fab{
+    margin-top: 15px;
+    background-color: #6BD3B3;
+    width: 120px;
+    height: 120px;
+    border-radius: 20px;
+    margin-left:9%;
+}
+.Feb{
+    margin-top: 15px;
+    background-color: #031B3D;
+    width: 120px;
+    height: 120px;
+    border-radius: 20px;
+    margin-left:9%;
+}
+
+/***********SECCION FINAL************/
+.End{
+    margin-top: 15px;
+    height: auto;
+    width: 375px;
+    display: flex;
+    flex-direction: row;
+    border: black solid 1px;
+}
+.Deva{
+    background-color: #031B3D;
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    margin: 15px;
+    
+}

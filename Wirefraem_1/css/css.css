@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.Caps{
+    height: auto;
+    width: 375px;
+    display: flex;
+    flex-direction: column;
+}
+.uno{
+    width: 170px;
+    height: 210px;
+    background-color: coral;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-left: 8%;
+}
+.dos{
+    width: 180px;
+    height: 90px;
+    background-color: coral;
+    border-radius: 15px;
+    align-self: flex-end;
+    margin: 20px;
+}
+.tres{
+    width: 180px;
+    height: 170px;
+    background-color: coral;
+    border-radius: 15px;
+    
+    align-self: center;
+}
+.cuatro{
+    width: 180px;
+    height: 40px;
+    background-color: coral;
+    border-radius: 20px;
+    margin-top: 20px;
+    align-self: flex-end;
+}
+.Top{
+    height: auto;
+    width: 375px;
+    display: flex;
+    flex-direction: row;
+    border: black solid 1px;
+}
+.Uno{
+    background-color: #091168;
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    margin: 15px;
+}
+.Dos{
+    background-color: #091168;
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    margin: 15px;
+}
+.Tres{
+    background-color: #091168;
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    margin: 15px;
+}
+.Cuatro{
+    background-color: #091168;
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    margin: 15px;
+}

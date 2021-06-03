@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Top{
+    margin-top: 30px;
+    width: 335px;
+    height: 545px;
+    background-color: #6BD3B3;
+    border-radius: 15px;
+    margin: 20px;
+}
+.uno{
+    margin: 30px;
+    background-color: #E7E7E7;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    padding-top: -50px;
+}
+.dos{
+    margin-top: 370px;
+    background-color: #E7E7E7;
+    border-radius: 15px;
+    width: 270px;
+    height: 50px;
+    margin-left: 10%;
+}
+.End{
+    margin-top: 10px;
+    height: auto;
+    width: 375px;
+    display: flex;
+    flex-direction: row;
+    border: black solid 1px;
+}
+.Deva{
+    background-color: #050441;
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    margin: 15px;
+    
+}

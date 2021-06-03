@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Encabezado{
+    width: 375px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    
+}
+.uno{
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+    background-color: #5A2E7A;
+    margin-top: 30px;
+    align-self: center;
+}
+.dos{
+    width: 275px;
+    height: 25px;
+    background-color: #2D004D;
+    margin-top: 55px;
+    border-radius: 50px;
+    align-self: center;
+}
+.tres{
+    width: 130px;
+    height: 15px;
+    background-color: #050441;
+    margin-top: 30px;
+    border-radius: 20px;
+    align-self: center;
+}
+.cuatro{
+    width: 130px;
+    height: 15px;
+    background-color: #050441;
+    margin-top: 10px;
+    border-radius: 20px;
+    align-self: center;
+}
+.cinco{
+    width: 275px;
+    height: 140px;
+    background-color: coral;
+    margin-top: 30px;
+    border-radius: 20px;
+    align-self: center;
+}
+.seis{
+    width: 275px;
+    height: 25px;
+    background-color: #050441;
+    margin-top: 35px;
+    border-radius: 5px;
+    align-self: center;
+}
+.Final{
+    margin-top: 45px;
+    height: auto;
+    width: 375px;
+    display: flex;
+    flex-direction: row;
+    border: black solid 1px;
+}
+.Uno{
+    background-color: #050441;
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    margin: 15px;
+}
+.Dos{
+    background-color: #050441;
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    margin: 15px;
+}
+.Tres{
+    background-color: #050441;
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    margin: 15px;
+}
+.Cuatro{
+    background-color: #050441;
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    margin: 15px;
+}
